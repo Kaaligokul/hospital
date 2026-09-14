@@ -23,10 +23,10 @@ A web-based platform designed to simplify hospital management and streamline the
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+* **Frontend:** HTML5, CSS3, Bootstrap
 * **Backend:** PHP
 * **Database:** MySQL
-* **Environment:** XAMPP / WAMP Server
+* **Environment:** XAMPP Server
 
 ---
 
@@ -36,5 +36,5 @@ Follow these steps to run the project locally on your machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/Kaaligokul/hospital.git](https://github.com/Kaaligokul/hospital.git)
+   git clone https://github.com/Kaaligokul/hospital.git
    cd hospital
